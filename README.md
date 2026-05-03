@@ -19,7 +19,7 @@ TP-2025-26-zadaci/
 │   └── zsr-01/
 │   └── ...
 │
-└── biljeske/
+└── notes/
     ├── obrasci.md
     ├── greske.md
     └── ponavljanje.md
