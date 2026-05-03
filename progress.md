@@ -326,28 +326,144 @@ Ovdje detaljno pratim napredak kroz sve zadatke iz Tehnika programiranja.
 
 | ID | Broj | Oznaka | Naziv zadatka | Status | Težina | Datum početka | Datum završetka | Ponoviti | Napomena |
 |---|---:|---|---|---|---:|---|---|---|---|
-| ZSR04-Z01 | 1 |  |  | --- |  |  |  |  |  |
-| ZSR04-Z02 | 2 |  |  | --- |  |  |  |  |  |
-| ZSR04-Z03 | 3 |  |  | --- |  |  |  |  |  |
-| ZSR04-Z04 | 4 |  |  | --- |  |  |  |  |  |
-| ZSR04-Z05 | 5 |  |  | --- |  |  |  |  |  |
+| ZSR04-Z01 | 1 | `#` | Kalendar za mjesec pomoću pobrojanih tipova | --- |  |  |  |  |  |
+| ZSR04-Z02 | 2 |  | Modularno rješavanje kvadratne jednačine s validacijom unosa | --- |  |  |  |  |  |
+| ZSR04-Z03 | 3 | `#` | Analiza broja: broj cifara, parne cifre i raspon cifara | --- |  |  |  |  |  |
+| ZSR04-Z04 | 4 |  | Pretvorba radijana u stepene, minute i sekunde | --- |  |  |  |  |  |
+| ZSR04-Z05 | 5 | `*` | Suma parnih i neparnih cifara broja | --- |  |  |  |  |  |
+| ZSR04-Z06 | 6 | `*` | Zbir cifara većih i ne većih od 5 | --- |  |  |  |  |  |
+| ZSR04-Z07 | 7 | `*` | Analiza programa s referencama i pokazivačima | --- |  |  |  |  |  |
+| ZSR04-Z08 | 8 | `*` | Analiza preklopljenih funkcija i podrazumijevanih parametara | --- |  |  |  |  |  |
+| ZSR04-Z09 | 9 | `*` | Analiza šablona, preklapanja funkcija i stringova | --- |  |  |  |  |  |
+| ZSR04-Z10 | 10 | `*` | Analiza pokazivača, nizova i pokazivačke aritmetike | --- |  |  |  |  |  |
+| ZSR04-Z11 | 11 |  | Brojanje parnih i neparnih djelilaca broja | --- |  |  |  |  |  |
+| ZSR04-Z12 | 12 | `*` | Aritmetička, geometrijska i harmonijska sredina cifara | --- |  |  |  |  |  |
+| ZSR04-Z13 | 13 | `*` | Razdvajanje parnih i neparnih cifara u dva broja | --- |  |  |  |  |  |
+| ZSR04-Z14 | 14 | `*` | Brojanje brojeva s parnim i neparnim brojem cifara u vektoru | --- |  |  |  |  |  |
+| ZSR04-Z15 | 15 | `*` | Brojanje pozitivnih i negativnih elemenata niza i provjera nule | --- |  |  |  |  |  |
+| ZSR04-Z16 | 16 | `#` | Goldbachova rastava broja na dva prosta sabirka | --- |  |  |  |  |  |
+| ZSR04-Z17 | 17 |  | Unos i validacija datuma u 21. vijeku | --- |  |  |  |  |  |
+| ZSR04-Z18 | 18 | `*` | Brojanje cijelih i necjelobrojnih elemenata niza i provjera negativnih | --- |  |  |  |  |  |
+| ZSR04-Z19 | 19 | `*` | Obrtanje redova matrice i računanje suma kolona | --- |  |  |  |  |  |
+| ZSR04-Z20 | 20 | `*` | Obrtanje redova donje trougaone matrice i proizvodi kolona | --- |  |  |  |  |  |
+| ZSR04-Z21 | 21 | `*` | Brojanje parnih i neparnih elemenata niza i provjera negativnih | --- |  |  |  |  |  |
+| ZSR04-Z22 | 22 | `#` | Rastava broja na kvadratno-slobodni dio | --- |  |  |  |  |  |
+| ZSR04-Z23 | 23 | `*` | Brojanje jednocifrenih i dvocifrenih elemenata i provjera nule | --- |  |  |  |  |  |
+| ZSR04-Z24 | 24 | `#` | Najmanji i najveći prosti faktor broja | --- |  |  |  |  |  |
+| ZSR04-Z25 | 25 | `*` | Odstranjivanje parnih cifara iz broja | --- |  |  |  |  |  |
+| ZSR04-Z26 | 26 | `*` | Analiza stringa: velika slova, mala slova i ostali znakovi | --- |  |  |  |  |  |
+| ZSR04-Z27 | 27 | `*` | Analiza stringa: slova, cifre i ostali znakovi | --- |  |  |  |  |  |
+| ZSR04-Z28 | 28 |  | Statistika elemenata manjih i većih od aritmetičke sredine | --- |  |  |  |  |  |
+| ZSR04-Z29 | 29 |  | Sume parnih i neparnih elemenata niza | --- |  |  |  |  |  |
+| ZSR04-Z30 | 30 | `*` | Uvećanje ASCII šifri svih znakova stringa | --- |  |  |  |  |  |
+| ZSR04-Z31 | 31 | `*` | Umanjenje ASCII šifri svih znakova stringa | --- |  |  |  |  |  |
+| ZSR04-Z32 | 32 | `*` | Pretvaranje prvog slova svake riječi u veliko | --- |  |  |  |  |  |
+| ZSR04-Z33 | 33 | `*` | ROT13 šifriranje stringa | --- |  |  |  |  |  |
+| ZSR04-Z34 | 34 | `*` | Umetanje zadatog broja razmaka iza svakog znaka stringa | --- |  |  |  |  |  |
+| ZSR04-Z35 | 35 | `*` | Moduli i argumenti vektora kompleksnih brojeva | --- |  |  |  |  |  |
+| ZSR04-Z36 | 36 | `*` | Određivanje tipova parametra šablonske funkcije | --- |  |  |  |  |  |
+| ZSR04-Z37 | 37 | `*` | Generičko nalaženje najmanjeg i najvećeg elementa bloka | --- |  |  |  |  |  |
+| ZSR04-Z38 | 38 | `#` | Unija dva vektora bez duplikata | --- |  |  |  |  |  |
+| ZSR04-Z39 | 39 | `*` | Brojanje lokalnih maksimuma u nizu | --- |  |  |  |  |  |
+| ZSR04-Z40 | 40 | `*` | Razvrstavanje elemenata niza prema opsegu | --- |  |  |  |  |  |
+| ZSR04-Z41 | 41 | `#` | Brojanje zajedničkih elemenata dva niza | --- |  |  |  |  |  |
+| ZSR04-Z42 | 42 |  | Izdvajanje dva najmanja različita elementa niza | --- |  |  |  |  |  |
+| ZSR04-Z43 | 43 |  | Brojanje pojava najmanjeg i najvećeg elementa niza | --- |  |  |  |  |  |
+| ZSR04-Z44 | 44 | `*` | Najčešći element u vektoru | --- |  |  |  |  |  |
+| ZSR04-Z45 | 45 | `*` | Uklanjanje elemenata većih od aritmetičke sredine | --- |  |  |  |  |  |
+| ZSR04-Z46 | 46 | `#` | Odstranjivanje elemenata izvan zadatog opsega | --- |  |  |  |  |  |
+| ZSR04-Z47 | 47 | `#` | Odstranjivanje elemenata koji se nalaze u drugom vektoru | --- |  |  |  |  |  |
+| ZSR04-Z48 | 48 | `*` | Generički Kroneckerov proizvod dva vektora | --- |  |  |  |  |  |
+| ZSR04-Z49 | 49 | `*` | Generičko filtriranje vektora po opsegu | --- |  |  |  |  |  |
+| ZSR04-Z50 | 50 | `*` | Provjera periodičnosti niza | --- |  |  |  |  |  |
+| ZSR04-Z51 | 51 | `*` | Izdvajanje najmanjeg i sljedećeg elementa po veličini | --- |  |  |  |  |  |
+| ZSR04-Z52 | 52 | `*` | Provjera simetričnosti vektora | --- |  |  |  |  |  |
 
 ## ZSR 5
 
 | ID | Broj | Oznaka | Naziv zadatka | Status | Težina | Datum početka | Datum završetka | Ponoviti | Napomena |
 |---|---:|---|---|---|---:|---|---|---|---|
-| ZSR05-Z01 | 1 |  |  | --- |  |  |  |  |  |
-| ZSR05-Z02 | 2 |  |  | --- |  |  |  |  |  |
-| ZSR05-Z03 | 3 |  |  | --- |  |  |  |  |  |
-| ZSR05-Z04 | 4 |  |  | --- |  |  |  |  |  |
-| ZSR05-Z05 | 5 |  |  | --- |  |  |  |  |  |
+| ZSR05-Z01 | 1 | `*` | Analiza ispisa programa s preklapanjem funkcija i stringovima | --- |  |  |  |  |  |
+| ZSR05-Z02 | 2 | `*` | Analiza tačnog ispisa programa s formatiranjem i funkcijama | --- |  |  |  |  |  |
+| ZSR05-Z03 | 3 | `*` | Analiza programa s referencama, stringom i reverse funkcijom | --- |  |  |  |  |  |
+| ZSR05-Z04 | 4 | `*` | Analiza niza pokazivača na funkcije i referenci | --- |  |  |  |  |  |
+| ZSR05-Z05 | 5 | `*` | Računanje rezultata programa s pokazivačima na funkcije | --- |  |  |  |  |  |
+| ZSR05-Z06 | 6 | `#` | Provjera palindroma u C-stringu uz pokazivačku aritmetiku | --- |  |  |  |  |  |
+| ZSR05-Z07 | 7 |  | Implementacija funkcije za nalaženje podstringa kao strstr | --- |  |  |  |  |  |
+| ZSR05-Z08 | 8 | `#` | Generičko odstranjivanje elemenata vektora izvan opsega bez erase | --- |  |  |  |  |  |
+| ZSR05-Z09 | 9 | `*` | Kombinovani zadatak: djelioci, transformacija, min/max indeks i ispis bloka | --- |  |  |  |  |  |
+| ZSR05-Z10 | 10 | `*` | Kombinovani zadatak: potpuni kvadrati, transformacija i parni brojevi | --- |  |  |  |  |  |
+| ZSR05-Z11 | 11 | `*` | Kombinovani zadatak: stepeni dvojke, transformacija i trocifreni brojevi | --- |  |  |  |  |  |
+| ZSR05-Z12 | 12 | `*` | Kombinovani zadatak: trocifreni brojevi djeljivi brojem i stepeni dvojke | --- |  |  |  |  |  |
+| ZSR05-Z13 | 13 | `*` | Generičko brojanje trocifrenih brojeva u bloku | --- |  |  |  |  |  |
+| ZSR05-Z14 | 14 | `*` | Generičko brojanje parnih brojeva u bloku | --- |  |  |  |  |  |
+| ZSR05-Z15 | 15 | `*` | Generičko traženje podbloka u bloku | --- |  |  |  |  |  |
+| ZSR05-Z16 | 16 | `*` | Implementacija funkcije JednakiBlokovi kao equal | --- |  |  |  |  |  |
+| ZSR05-Z17 | 17 | `*` | Numeričko računanje izvoda funkcije | --- |  |  |  |  |  |
+| ZSR05-Z18 | 18 | `*` | Numeričko računanje integrala Simpsonovim pravilom | --- |  |  |  |  |  |
+| ZSR05-Z19 | 19 | `*` | Implementacija generičke funkcije Nadji kao find_if | --- |  |  |  |  |  |
+| ZSR05-Z20 | 20 | `*` | Implementacija generičke funkcije Prebroji kao count_if | --- |  |  |  |  |  |
+| ZSR05-Z21 | 21 | `*` | Implementacija funkcije kao replace_copy_if | --- |  |  |  |  |  |
+| ZSR05-Z22 | 22 | `*` | Generičko sabiranje elemenata koji zadovoljavaju kriterij | --- |  |  |  |  |  |
+| ZSR05-Z23 | 23 | `#` | Vlastite verzije funkcija find, reverse, replace_if i remove_copy_if | --- |  |  |  |  |  |
+| ZSR05-Z24 | 24 | `*` | Provjera simetričnosti bloka pomoću iteratora/pokazivača | --- |  |  |  |  |  |
+| ZSR05-Z25 | 25 | `#` | Brojanje zajedničkih elemenata dva bloka | --- |  |  |  |  |  |
+| ZSR05-Z26 | 26 | `#` | Izdvajanje zajedničkih elemenata dva bloka bez duplikata | --- |  |  |  |  |  |
+| ZSR05-Z27 | 27 | `*` | Nalaženje elementa za koji funkcija ima najmanju vrijednost | --- |  |  |  |  |  |
+| ZSR05-Z28 | 28 | `#` | Simetrična razlika dva bloka bez duplikata | --- |  |  |  |  |  |
+| ZSR05-Z29 | 29 | `*` | Implementacija max_element sa funkcijom kriterija | --- |  |  |  |  |  |
+| ZSR05-Z30 | 30 | `*` | Uzastopna primjena funkcije n puta | --- |  |  |  |  |  |
+| ZSR05-Z31 | 31 | `*` | Vektor rezultata uzastopnih primjena funkcije | --- |  |  |  |  |  |
+| ZSR05-Z32 | 32 | `#` | Generičke funkcije ZaSve, MakarJedan i Akumuliraj | --- |  |  |  |  |  |
+| ZSR05-Z33 | 33 | `*` | Transformacija stringa pomoću funkcijskog parametra i lambda funkcije | --- |  |  |  |  |  |
+| ZSR05-Z34 | 34 | `*` | Uklanjanje rečenica s više od 5 samoglasnika iz deka | --- |  |  |  |  |  |
+| ZSR05-Z35 | 35 | `*` | Vektor kvadrata prvih 100 prirodnih brojeva i algoritamske obrade | --- |  |  |  |  |  |
+| ZSR05-Z36 | 36 | `*` | Zamjena znakova u stringu na osnovu zadatog znaka i funkcije | --- |  |  |  |  |  |
+| ZSR05-Z37 | 37 | `*` | Sortiranje kompleksnih brojeva po imaginarnom dijelu | --- |  |  |  |  |  |
+| ZSR05-Z38 | 38 | `*` | Sortiranje kompleksnih brojeva po modulu | --- |  |  |  |  |  |
+| ZSR05-Z39 | 39 | `*` | Sortiranje kompleksnih brojeva po realnom dijelu | --- |  |  |  |  |  |
+| ZSR05-Z40 | 40 | `*` | Sortiranje tačaka po uglu u kompjuterskoj grafici | --- |  |  |  |  |  |
+| ZSR05-Z41 | 41 | `*` | Sortiranje deka posmatranog u ogledalu | --- |  |  |  |  |  |
+| ZSR05-Z42 | 42 | `*` | Sortiranje brojeva po broju djelilaca | --- |  |  |  |  |  |
+| ZSR05-Z43 | 43 | `*` | Sortiranje brojeva po rasponu cifara | --- |  |  |  |  |  |
+| ZSR05-Z44 | 44 | `*` | Sortiranje brojeva po broju cifara | --- |  |  |  |  |  |
+| ZSR05-Z45 | 45 | `#` | Unos i sortiranje rečenica do prazne rečenice | --- |  |  |  |  |  |
+| ZSR05-Z46 | 46 | `#` | Sortiranje dinamičkog niza po broju djelilaca | --- |  |  |  |  |  |
+| ZSR05-Z47 | 47 | `#` | Sortiranje matrice po sumi redova | --- |  |  |  |  |  |
+| ZSR05-Z48 | 48 | `#` | Poređenje brzine ručnog sortiranja i funkcije sort | --- |  |  |  |  |  |
+| ZSR05-Z49 | 49 | `#` | Generičko izdvajanje elemenata prema kriteriju | --- |  |  |  |  |  |
+| ZSR05-Z50 | 50 | `#` | Izmjena 3D kontejnera pomoću funkcijskog parametra | --- |  |  |  |  |  |
+| ZSR05-Z51 | 51 | `#` | Izdvajanje dijagonala iz 3D kontejnera | --- |  |  |  |  |  |
+| ZSR05-Z52 | 52 | `#` | Uvrnuti presjek i uvrnuta razlika blokova | --- |  |  |  |  |  |
 
 ## ZSR 6
 
 | ID | Broj | Oznaka | Naziv zadatka | Status | Težina | Datum početka | Datum završetka | Ponoviti | Napomena |
 |---|---:|---|---|---|---:|---|---|---|---|
-| ZSR06-Z01 | 1 |  |  | --- |  |  |  |  |  |
-| ZSR06-Z02 | 2 |  |  | --- |  |  |  |  |  |
-| ZSR06-Z03 | 3 |  |  | --- |  |  |  |  |  |
-| ZSR06-Z04 | 4 |  |  | --- |  |  |  |  |  |
-| ZSR06-Z05 | 5 |  |  | --- |  |  |  |  |  |
+| ZSR06-Z01 | 1 | `*` | Analiza ispisa programa s kompleksnim brojevima i pokazivačima | --- |  |  |  |  |  |
+| ZSR06-Z02 | 2 | `*` | Analiza ispisa programa s referencama, pokazivačima i dinamičkom alokacijom | --- |  |  |  |  |  |
+| ZSR06-Z03 | 3 | `*` | Generičko dinamičko kreiranje niza popunjenog zadanom vrijednošću | --- |  |  |  |  |  |
+| ZSR06-Z04 | 4 | `*` | Dinamičko kreiranje niza prvih n prostih brojeva | --- |  |  |  |  |  |
+| ZSR06-Z05 | 5 | `*` | Dinamički niz recipročnih vrijednosti elemenata vektora | --- |  |  |  |  |  |
+| ZSR06-Z06 | 6 | `*` | Dinamički kreiran obrnuti niz realnih brojeva | --- |  |  |  |  |  |
+| ZSR06-Z07 | 7 | `*` | Generička dinamička alokacija kvadratne matrice | --- |  |  |  |  |  |
+| ZSR06-Z08 | 8 | `*` | Sortiranje kompleksnih brojeva po modulu i kopiranje u dinamičke nizove | --- |  |  |  |  |  |
+| ZSR06-Z09 | 9 | `*` | Kopiranje vektor-matrice u dinamički alociranu matricu | --- |  |  |  |  |  |
+| ZSR06-Z10 | 10 | `*` | Kontinualna alokacija kopije vektor-matrice | --- |  |  |  |  |  |
+| ZSR06-Z11 | 11 | `*` | Dinamička alokacija grbave matrice sa palindromskim redovima | --- |  |  |  |  |  |
+| ZSR06-Z12 | 12 | `*` | Kompaktifikacija fragmentirano alocirane matrice | --- |  |  |  |  |  |
+| ZSR06-Z13 | 13 | `*` | Generičko kreiranje grbave matrice prema dužinama redova | --- |  |  |  |  |  |
+| ZSR06-Z14 | 14 | `#` | Generička tabela sabiranja dva niza fragmentiranom alokacijom | --- |  |  |  |  |  |
+| ZSR06-Z15 | 15 | `*` | Pretvaranje vektora stringova u dinamičku C-string strukturu | --- |  |  |  |  |  |
+| ZSR06-Z16 | 16 | `#` | Generičke funkcije za dinamičke matrice i množenje matrica | --- |  |  |  |  |  |
+| ZSR06-Z17 | 17 | `*` | Kontinualno kreiranje tabele sabiranja dva vektora | --- |  |  |  |  |  |
+| ZSR06-Z18 | 18 | `*` | Dinamički Kroneckerov proizvod dva kontejnera | --- |  |  |  |  |  |
+| ZSR06-Z19 | 19 | `*` | Dodavanje studenta u dinamičku evidenciju stringova | --- |  |  |  |  |  |
+| ZSR06-Z20 | 20 | `*` | Brisanje studenta iz dinamičke evidencije stringova | --- |  |  |  |  |  |
+| ZSR06-Z21 | 21 | `#` | Dinamičke matrice i sabiranje dvije kvadratne matrice | --- |  |  |  |  |  |
+| ZSR06-Z22 | 22 | `#` | Fragmentirana i kontinualna alokacija grbave matrice | --- |  |  |  |  |  |
+| ZSR06-Z23 | 23 | `*` | Dinamička alokacija dvije grbave matrice znakova | --- |  |  |  |  |  |
+| ZSR06-Z24 | 24 | `*` | Dinamička alokacija dvije grbave matrice cijelih brojeva | --- |  |  |  |  |  |
+| ZSR06-Z25 | 25 | `#` | Stirlingovi brojevi druge vrste i dinamičko programiranje | --- |  |  |  |  |  |
+| ZSR06-Z26 | 26 | `#` | Dinamička evidencija optužbi za kupovinu zadaća | --- |  |  |  |  |  |
+---
