@@ -21,7 +21,6 @@ TP-2025-26-zadaci/
 │
 └── notes/
     ├── obrasci.md
-    ├── greske.md
     └── ponavljanje.md
 ```
 
