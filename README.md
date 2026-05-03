@@ -108,11 +108,11 @@ TP-2025-26-zadaci/
 
 ### Zadaci za samostalno vježbanje
 
-| ID | Materijal | Folder | Broj zadataka | Urađeno | Status | Datum početka | Datum završetka |
-|---|---|---|:---:|:---:|:---:|---|---|
-| ZSR1 | Zadaci za samostalno vježbanje 1 | `zsr/zsr-01/` |  |  | --- |  |  |
-| ZSR2 | Zadaci za samostalno vježbanje 2 | `zsr/zsr-02/` |  |  | --- |  |  |
-| ZSR3 | Zadaci za samostalno vježbanje 3 | `zsr/zsr-03/` |  |  | --- |  |  |
-| ZSR4 | Zadaci za samostalno vježbanje 4 | `zsr/zsr-04/` |  |  | --- |  |  |
-| ZSR5 | Zadaci za samostalno vježbanje 5 | `zsr/zsr-05/` |  |  | --- |  |  |
-| ZSR6 | Zadaci za samostalno vježbanje 6 | `zsr/zsr-06/` |  |  | --- |  |  |
+| ID | Materijal | Folder | Broj zadataka | Ispitni `*` | Zadaćni `#` | Obični | Urađeno | Status | Datum početka | Datum završetka |
+|---|---|---|---:|---:|---:|---:|---:|---|---|---|
+| ZSR1 | Zadaci za samostalno vježbanje 1 | `zsr/zsr-01/` | 32 | 0 | 0 | 32 | 0 | --- |  |  |
+| ZSR2 | Zadaci za samostalno vježbanje 2 | `zsr/zsr-02/` | 46 | 28 | 12 | 6 | 0 | --- |  |  |
+| ZSR3 | Zadaci za samostalno vježbanje 3 | `zsr/zsr-03/` | 64 | 20 | 24 | 20 | 0 | --- |  |  |
+| ZSR4 | Zadaci za samostalno vježbanje 4 | `zsr/zsr-04/` | 52 | 35 | 9 | 8 | 0 | --- |  |  |
+| ZSR5 | Zadaci za samostalno vježbanje 5 | `zsr/zsr-05/` | 52 | 36 | 15 | 1 | 0 | --- |  |  |
+| ZSR6 | Zadaci za samostalno vježbanje 6 | `zsr/zsr-06/` | 26 | 20 | 6 | 0 | 0 | --- |  |  |
