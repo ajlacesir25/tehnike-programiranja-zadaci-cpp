@@ -2,7 +2,96 @@
 
 Ovdje detaljno pratim napredak kroz sve zadatke iz Tehnika programiranja.
 
+## Table of Contents
+
+- [Legenda](#legenda)
+  - [Status zadataka i skala težine](#status-zadataka-i-skala-težine)
+  - [Oznake](#oznake)
+
+- [Riješeni zadaci](#rijeseni-zadaci)
+  - [Predavanje 1](#predavanje-1)
+  - [Predavanje 2](#predavanje-2)
+  - [Predavanje 3](#predavanje-3)
+  - [Predavanje 4](#predavanje-4)
+  - [Predavanje 5](#predavanje-5)
+  - [Predavanje 6](#predavanje-6)
+  - [Predavanje 7](#predavanje-7)
+
+- [Zadaci za samostalno vježbanje](#zadaci-za-samostalno-vježbanje)
+  - [ZSR 1](#zsr-1)
+  - [ZSR 2](#zsr-2)
+  - [ZSR 3](#zsr-3)
+  - [ZSR 4](#zsr-4)
+  - [ZSR 5](#zsr-5)
+  - [ZSR 6](#zsr-6)
+
 ## Legenda
+### Status zadataka i skala težine
+
+<table>
+  <tr>
+    <td valign="top">
+
+<table>
+  <tr>
+    <th align="center">Status</th>
+    <th>Značenje</th>
+  </tr>
+  <tr>
+    <td align="center">---</td>
+    <td>Nisam još radila</td>
+  </tr>
+  <tr>
+    <td align="center">🔄</td>
+    <td>U toku</td>
+  </tr>
+  <tr>
+    <td align="center">✅</td>
+    <td>Urađeno</td>
+  </tr>
+  <tr>
+    <td align="center">🟡</td>
+    <td>Treba ponoviti</td>
+  </tr>
+  <tr>
+    <td align="center">🔴</td>
+    <td>Teško / ne razumijem dovoljno</td>
+  </tr>
+</table>
+
+</td>
+<td valign="top">
+
+<table>
+  <tr>
+    <th align="center">Težina</th>
+    <th>Značenje</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td>Znam odmah uraditi</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td>Znam uz malo razmišljanja</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td>Znam ideju, ali zapnem u kodu</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td>Razumijem kad pročitam rješenje</td>
+  </tr>
+  <tr>
+    <td align="center">5</td>
+    <td>Ne razumijem dovoljno, moram ponoviti</td>
+  </tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ### Oznake
 
