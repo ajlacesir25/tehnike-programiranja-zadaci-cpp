@@ -169,47 +169,74 @@ Ovdje detaljno pratim napredak kroz sve zadatke iz Tehnika programiranja.
 
 | ID | Broj | Oznaka | Naziv zadatka | Status | Težina | Datum početka | Datum završetka | Ponoviti | Napomena |
 |---|---:|---|---|---|---:|---|---|---|---|
-| ZSR01-Z01 | 1 |  |  | --- |  |  |  |  |  |
-| ZSR01-Z02 | 2 |  |  | --- |  |  |  |  |  |
-| ZSR01-Z03 | 3 |  |  | --- |  |  |  |  |  |
-| ZSR01-Z04 | 4 |  |  | --- |  |  |  |  |  |
-| ZSR01-Z05 | 5 |  |  | --- |  |  |  |  |  |
+| ZSR01-Z01 | 1 |  | Proteko vrijeme između dva vremenska trenutka | --- |  |  |  |  |  |
+| ZSR01-Z02 | 2 |  | Pretvaranje brzine broda iz čvorova u km/h | --- |  |  |  |  |  |
+| ZSR01-Z03 | 3 |  | Klasifikacija unosa: prirodan, cijeli, realan ili nije broj | --- |  |  |  |  |  |
+| ZSR01-Z04 | 4 |  | Poređenje dvije internet ponude prema broju sati | --- |  |  |  |  |  |
+| ZSR01-Z05 | 5 |  | Rješavanje kvadratne jednačine sa svim specijalnim slučajevima | --- |  |  |  |  |  |
+| ZSR01-Z06 | 6 |  | Provjera da li tri broja čine pravougli trougao | --- |  |  |  |  |  |
+| ZSR01-Z07 | 7 |  | Formatiran ispis glavnice, kamate i nove svote | --- |  |  |  |  |  |
+| ZSR01-Z08 | 8 |  | Provjera pozitivnosti i postojanja neparnih brojeva bez nizova | --- |  |  |  |  |  |
+| ZSR01-Z09 | 9 |  | Prosti faktori broja sa ponavljanjem | --- |  |  |  |  |  |
+| ZSR01-Z10 | 10 |  | Prosti faktori broja bez ponavljanja | --- |  |  |  |  |  |
+| ZSR01-Z11 | 11 |  | Minimalni n za poklapanje Taylorove sume i funkcije na 5 decimala | --- |  |  |  |  |  |
+| ZSR01-Z12 | 12 |  | Računanje sume bez pow i sa jednom petljom | --- |  |  |  |  |  |
+| ZSR01-Z13 | 13 |  | Aritmetička i geometrijska sredina unosa do nule | --- |  |  |  |  |  |
+| ZSR01-Z14 | 14 |  | Provjera da li je cijeli broj palindroman | --- |  |  |  |  |  |
+| ZSR01-Z15 | 15 |  | IzbaciNule: uklanjanje svih nula iz prirodnog broja | --- |  |  |  |  |  |
+| ZSR01-Z16 | 16 |  | MultOtpornost i ispis brojeva sa zadanom multiplikativnom otpornošću | --- |  |  |  |  |  |
+| ZSR01-Z17 | 17 |  | UnesiBroj i rješavanje linearne jednačine sa validacijom unosa | --- |  |  |  |  |  |
+| ZSR01-Z18 | 18 |  | Formatirana tablica množenja od 1 do n | --- |  |  |  |  |  |
+| ZSR01-Z19 | 19 |  | Iscrtavanje pravougaonika od zvjezdica | --- |  |  |  |  |  |
+| ZSR01-Z20 | 20 |  | Iscrtavanje figure oblika <-> od zvjezdica | --- |  |  |  |  |  |
+| ZSR01-Z21 | 21 |  | Iscrtavanje figure oblika >-< od zvjezdica | --- |  |  |  |  |  |
+| ZSR01-Z22 | 22 |  | Iscrtavanje figure pješčani sat od zvjezdica | --- |  |  |  |  |  |
+| ZSR01-Z23 | 23 |  | Iscrtavanje ugniježđenih pravougaonika od znakova +, - i / | --- |  |  |  |  |  |
+| ZSR01-Z24 | 24 |  | Računanje vrijednosti polinoma Hornerovom shemom bez nizova | --- |  |  |  |  |  |
+| ZSR01-Z25 | 25 |  | Suma recipročnih parcijalnih suma bez nizova | --- |  |  |  |  |  |
+| ZSR01-Z26 | 26 |  | Računanje vrijednosti verižnog razlomka | --- |  |  |  |  |  |
+| ZSR01-Z27 | 27 |  | Ispis prostih brojeva između dva prirodna broja | --- |  |  |  |  |  |
+| ZSR01-Z28 | 28 |  | Nalaženje n-tog prostog broja | --- |  |  |  |  |  |
+| ZSR01-Z29 | 29 |  | Brojanje brojeva djeljivih sumom svojih cifara u opsegu | --- |  |  |  |  |  |
+| ZSR01-Z30 | 30 |  | Tabela brojeva i suma njihovih djelilaca u opsegu | --- |  |  |  |  |  |
+| ZSR01-Z31 | 31 |  | Funkcija stepen za cjelobrojnu potenciju bez pow | --- |  |  |  |  |  |
+| ZSR01-Z32 | 32 |  | Heronov algoritam za računanje kvadratnog korijena | --- |  |  |  |  |  |
 
 ## ZSR 2
 
 | ID | Broj | Oznaka | Naziv zadatka | Status | Težina | Datum početka | Datum završetka | Ponoviti | Napomena |
 |---|---:|---|---|---|---:|---|---|---|---|
-| ZSR02-Z01 | 1 |  | Simetričan broj / palindrom | --- |  |  |  |  |  |
+| ZSR02-Z01 | 1 |  | Simetrican broj / palindrom | --- |  |  |  |  |  |
 | ZSR02-Z02 | 2 | `*` | Provjera da li broj ima jednakih cifara | --- |  |  |  |  |  |
 | ZSR02-Z03 | 3 | `*` | Provjera dvije iste susjedne cifre | --- |  |  |  |  |  |
-| ZSR02-Z04 | 4 |  | Izdvajanje parnih ili neparnih cifara | --- |  |  |  |  |  |
-| ZSR02-Z05 | 5 |  | Izraz s kompleksnim brojem | --- |  |  |  |  |  |
-| ZSR02-Z06 | 6 |  | Moivreova teorema | --- |  |  |  |  |  |
-| ZSR02-Z07 | 7 |  | Kvadratna jednačina s kompleksnim koeficijentima | --- |  |  |  |  |  |
-| ZSR02-Z08 | 8 |  | Svi elementi jednaki / različiti | --- |  |  |  |  |  |
+| ZSR02-Z04 | 4 |  | Podbroj: izdvajanje parnih ili neparnih cifara | --- |  |  |  |  |  |
+| ZSR02-Z05 | 5 |  | Izracun izraza sa kompleksnim brojem | --- |  |  |  |  |  |
+| ZSR02-Z06 | 6 |  | Provjera Moivreove teoreme kompleksnim tipom | --- |  |  |  |  |  |
+| ZSR02-Z07 | 7 |  | Kvadratna jednacina sa kompleksnim koeficijentima | --- |  |  |  |  |  |
+| ZSR02-Z08 | 8 |  | Svi elementi vektora jednaki ili razliciti | --- |  |  |  |  |  |
 | ZSR02-Z09 | 9 | `*` | Provjera da li u vektoru ima parnih brojeva | --- |  |  |  |  |  |
 | ZSR02-Z10 | 10 | `*` | Provjera da li u vektoru ima potpunih kvadrata | --- |  |  |  |  |  |
 | ZSR02-Z11 | 11 | `*` | Prepis niza u vektor obrnutim redoslijedom | --- |  |  |  |  |  |
 | ZSR02-Z12 | 12 | `*` | Provjera da li u vektoru ima trocifrenih brojeva | --- |  |  |  |  |  |
 | ZSR02-Z13 | 13 | `*` | Provjera da li u vektoru ima stepena dvojke | --- |  |  |  |  |  |
 | ZSR02-Z14 | 14 | `*` | Vektor svih djelilaca broja | --- |  |  |  |  |  |
-| ZSR02-Z15 | 15 | `*` | Stepeni dvojke manji od broja | --- |  |  |  |  |  |
-| ZSR02-Z16 | 16 | `*` | Potpuni kvadrati manji od broja | --- |  |  |  |  |  |
+| ZSR02-Z15 | 15 | `*` | Stepeni dvojke manji od zadanog broja | --- |  |  |  |  |  |
+| ZSR02-Z16 | 16 | `*` | Potpuni kvadrati manji od zadanog broja | --- |  |  |  |  |  |
 | ZSR02-Z17 | 17 | `*` | Trocifreni brojevi djeljivi zadanim brojem | --- |  |  |  |  |  |
 | ZSR02-Z18 | 18 | `*` | Parni pa neparni elementi iz niza | --- |  |  |  |  |  |
 | ZSR02-Z19 | 19 | `*` | Broj cifara elemenata vektora | --- |  |  |  |  |  |
 | ZSR02-Z20 | 20 | `*` | Suma cifara elemenata vektora | --- |  |  |  |  |  |
 | ZSR02-Z21 | 21 | `*` | Najmanje cifre elemenata vektora | --- |  |  |  |  |  |
-| ZSR02-Z22 | 22 | `*` | Izdvajanje složenih brojeva iz vektora | --- |  |  |  |  |  |
+| ZSR02-Z22 | 22 | `*` | Izdvajanje slozenih brojeva iz vektora | --- |  |  |  |  |  |
 | ZSR02-Z23 | 23 | `*` | Lokalni maksimumi vektora | --- |  |  |  |  |  |
 | ZSR02-Z24 | 24 | `*` | Provjera oscilatornog slijeda | --- |  |  |  |  |  |
 | ZSR02-Z25 | 25 | `*` | Suma 5 uzastopnih prirodnih brojeva | --- |  |  |  |  |  |
 | ZSR02-Z26 | 26 | `*` | Proizvod 5 uzastopnih prirodnih brojeva | --- |  |  |  |  |  |
-| ZSR02-Z27 | 27 | `*` | Vektor logičkih vrijednosti za proste brojeve | --- |  |  |  |  |  |
-| ZSR02-Z28 | 28 | `*` | Izdvajanje savršenih brojeva | --- |  |  |  |  |  |
-| ZSR02-Z29 | 29 | `*` | Elementi čija je suma cifara veća od praga | --- |  |  |  |  |  |
+| ZSR02-Z27 | 27 | `*` | Vektor logičkih vrijednosti za proste brojeve | --- |  |  |  |  |  |
+| ZSR02-Z28 | 28 | `*` | Izdvajanje savrsenih brojeva | --- |  |  |  |  |  |
+| ZSR02-Z29 | 29 | `*` | Elementi cija je suma cifara veca od praga | --- |  |  |  |  |  |
 | ZSR02-Z30 | 30 | `*` | Odstranjivanje brojeva sa ciframa iste parnosti | --- |  |  |  |  |  |
-| ZSR02-Z31 | 31 | `*` | Najmanje cifre elemenata bez pomoćnih funkcija | --- |  |  |  |  |  |
+| ZSR02-Z31 | 31 | `*` | Najmanje cifre elemenata bez pomocnih funkcija | --- |  |  |  |  |  |
 | ZSR02-Z32 | 32 | `*` | Faktorijeli elemenata vektora | --- |  |  |  |  |  |
 | ZSR02-Z33 | 33 | `*` | Transformacija cifara po parnosti | --- |  |  |  |  |  |
 | ZSR02-Z34 | 34 | `#` | Brojevi djeljivi sumom svojih cifara | --- |  |  |  |  |  |
@@ -219,22 +246,81 @@ Ovdje detaljno pratim napredak kroz sve zadatke iz Tehnika programiranja.
 | ZSR02-Z38 | 38 | `#` | Prosti brojevi, blizanci, prosti faktori i djelioci | --- |  |  |  |  |  |
 | ZSR02-Z39 | 39 | `#` | Armstrongovi brojevi u opsegu | --- |  |  |  |  |  |
 | ZSR02-Z40 | 40 | `#` | Slike brojeva u ogledalu | --- |  |  |  |  |  |
-| ZSR02-Z41 | 41 | `#` | Numerološka klasa brojeva | --- |  |  |  |  |  |
-| ZSR02-Z42 | 42 | `#` | Najduži monotoni podniz | --- |  |  |  |  |  |
-| ZSR02-Z43 | 43 | `#` | Najduži negativni podniz | --- |  |  |  |  |  |
+| ZSR02-Z41 | 41 | `#` | Numeroloska klasa brojeva | --- |  |  |  |  |  |
+| ZSR02-Z42 | 42 | `#` | Najduzi monotoni podniz | --- |  |  |  |  |  |
+| ZSR02-Z43 | 43 | `#` | Najduzi negativni podniz | --- |  |  |  |  |  |
 | ZSR02-Z44 | 44 | `#` | Multiplikativna otpornost | --- |  |  |  |  |  |
 | ZSR02-Z45 | 45 | `#` | Gadni brojevi | --- |  |  |  |  |  |
-| ZSR02-Z46 | 46 | `#` | Ciklička permutacija | --- |  |  |  |  |  |
+| ZSR02-Z46 | 46 | `#` | Ciklicka permutacija | --- |  |  |  |  |  |
 
 ## ZSR 3
 
 | ID | Broj | Oznaka | Naziv zadatka | Status | Težina | Datum početka | Datum završetka | Ponoviti | Napomena |
 |---|---:|---|---|---|---:|---|---|---|---|
-| ZSR03-Z01 | 1 |  |  | --- |  |  |  |  |  |
-| ZSR03-Z02 | 2 |  |  | --- |  |  |  |  |  |
-| ZSR03-Z03 | 3 |  |  | --- |  |  |  |  |  |
-| ZSR03-Z04 | 4 |  |  | --- |  |  |  |  |  |
-| ZSR03-Z05 | 5 |  |  | --- |  |  |  |  |  |
+| ZSR03-Z01 | 1 | `#` | Upravljanje robotom u koordinatnom sistemu pomoću komandi | --- |  |  |  |  |  |
+| ZSR03-Z02 | 2 |  | Analiza kvadratne matrice: kolona s najvećom sumom, red s najmanjom sumom i dijagonala | --- |  |  |  |  |  |
+| ZSR03-Z03 | 3 |  | Kreiranje kvadratne spiralne matrice | --- |  |  |  |  |  |
+| ZSR03-Z04 | 4 |  | Matrice: sabiranje i množenje sa bacanjem izuzetaka | --- |  |  |  |  |  |
+| ZSR03-Z05 | 5 | `*` | Računanje ugniježđenog izraza sa korijenima i izuzecima | --- |  |  |  |  |  |
+| ZSR03-Z06 | 6 | `*` | Računanje ugniježđenog razlomka i provjera dijeljenja nulom | --- |  |  |  |  |  |
+| ZSR03-Z07 | 7 | `*` | Suma recipročnih parcijalnih suma vektora sa izuzecima | --- |  |  |  |  |  |
+| ZSR03-Z08 | 8 |  | Funkcija f(x,n) sa tri vrste mogućih izuzetaka | --- |  |  |  |  |  |
+| ZSR03-Z09 | 9 | `*` | Izdvajanje elemenata vektora A prema indeksima iz vektora B | --- |  |  |  |  |  |
+| ZSR03-Z10 | 10 | `*` | Vektor logičkih vrijednosti za provjeru kubova prirodnih brojeva | --- |  |  |  |  |  |
+| ZSR03-Z11 | 11 | `*` | Broj cifara elemenata long long vektora uz izuzetak za negativne | --- |  |  |  |  |  |
+| ZSR03-Z12 | 12 | `#` | Brojanje sedala matrice | --- |  |  |  |  |  |
+| ZSR03-Z13 | 13 | `*` | Provjera tranzitivnosti kvadratne logičke matrice | --- |  |  |  |  |  |
+| ZSR03-Z14 | 14 | `*` | Zamjena kolona sa minimalnim i maksimalnim proizvodom elemenata | --- |  |  |  |  |  |
+| ZSR03-Z15 | 15 | `#` | Funkcije za validaciju matrice, Frobeniusovu normu, donju trougaonost i transponovanje | --- |  |  |  |  |  |
+| ZSR03-Z16 | 16 | `*` | Zamjena redova sa maksimalnom i minimalnom sumom elemenata | --- |  |  |  |  |  |
+| ZSR03-Z17 | 17 | `*` | Provjera cirkulantne matrice organizirane kao dek dekova | --- |  |  |  |  |  |
+| ZSR03-Z18 | 18 | `*` | Provjera savršenog magičnog kvadrata | --- |  |  |  |  |  |
+| ZSR03-Z19 | 19 | `*` | Provjera idempotentne matrice bez pomoćnih kontejnera | --- |  |  |  |  |  |
+| ZSR03-Z20 | 20 | `#` | Kroneckerov proizvod dvije matrice sa validacijom forme | --- |  |  |  |  |  |
+| ZSR03-Z21 | 21 | `#` | Kreiranje Walsh-Hadamardove matrice | --- |  |  |  |  |  |
+| ZSR03-Z22 | 22 | `#` | Raspon matrice i vraćanje koordinata raspona | --- |  |  |  |  |  |
+| ZSR03-Z23 | 23 | `#` | Kreiranje i provjera lijeve/desne spiralne matrice | --- |  |  |  |  |  |
+| ZSR03-Z24 | 24 | `#` | OgledaloMatrica: horizontalno, vertikalno i kombinovano ogledanje | --- |  |  |  |  |  |
+| ZSR03-Z25 | 25 | `#` | VrhMatrice: nalaženje vrha metodom penjanja uz brdo | --- |  |  |  |  |  |
+| ZSR03-Z26 | 26 | `#` | Maksimalni monotono rastući i opadajući podnizovi | --- |  |  |  |  |  |
+| ZSR03-Z27 | 27 | `#` | Doolittle LU faktorizacija i provjera faktorizacije | --- |  |  |  |  |  |
+| ZSR03-Z28 | 28 | `#` | Usrednjavajući filter nad matricom | --- |  |  |  |  |  |
+| ZSR03-Z29 | 29 | `#` | Razvrstavanje brojeva po minimalnom broju kvadrata u sumi | --- |  |  |  |  |  |
+| ZSR03-Z30 | 30 |  | Ispis znaka prema unesenoj ASCII šifri | --- |  |  |  |  |  |
+| ZSR03-Z31 | 31 |  | Ispis ASCII šifre unesenog znaka i susjednih znakova | --- |  |  |  |  |  |
+| ZSR03-Z32 | 32 |  | Iscrtavanje jednakokrakog trapeza zadanim znakovima | --- |  |  |  |  |  |
+| ZSR03-Z33 | 33 |  | Iscrtavanje kvadrata sa dijagonalama zadanim znakovima | --- |  |  |  |  |  |
+| ZSR03-Z34 | 34 |  | Iscrtavanje vertikalnog pješčanog sata zadanim znakovima | --- |  |  |  |  |  |
+| ZSR03-Z35 | 35 |  | Iscrtavanje jednakokrakog trougla od velikih slova | --- |  |  |  |  |  |
+| ZSR03-Z36 | 36 |  | CrtajTrougao: šuplji trougao sa znakovima po ASCII redoslijedu | --- |  |  |  |  |  |
+| ZSR03-Z37 | 37 |  | Iscrtavanje kvadratne šare od ugniježđenih slova | --- |  |  |  |  |  |
+| ZSR03-Z38 | 38 |  | Iscrtavanje pravouglog trapeza od slojeva velikih slova | --- |  |  |  |  |  |
+| ZSR03-Z39 | 39 |  | Iscrtavanje simetrične slovne šare | --- |  |  |  |  |  |
+| ZSR03-Z40 | 40 |  | Rad sa stringovima: dužina, poređenje, spajanje i obrtanje rečenice | --- |  |  |  |  |  |
+| ZSR03-Z41 | 41 | `*` | Provjera korektne riječi prema grupama suglasnika | --- |  |  |  |  |  |
+| ZSR03-Z42 | 42 |  | Ispis posljednje riječi iz rečenice | --- |  |  |  |  |  |
+| ZSR03-Z43 | 43 | `*` | Uklanjanje suvišnih razmaka iz rečenice | --- |  |  |  |  |  |
+| ZSR03-Z44 | 44 |  | Ispis riječi rečenice i brojanje slova i riječi | --- |  |  |  |  |  |
+| ZSR03-Z45 | 45 | `*` | BrojRijeci: brojanje riječi u stringu | --- |  |  |  |  |  |
+| ZSR03-Z46 | 46 |  | Pretvaranje cijelog broja u binarni zapis kao string | --- |  |  |  |  |  |
+| ZSR03-Z47 | 47 |  | Cezarova šifra za string | --- |  |  |  |  |  |
+| ZSR03-Z48 | 48 | `*` | Spajanje riječi stringa zadanim separatorom | --- |  |  |  |  |  |
+| ZSR03-Z49 | 49 |  | Pretvaranje binarnog zapisa iz stringa u decimalni broj | --- |  |  |  |  |  |
+| ZSR03-Z50 | 50 | `#` | DaLiJePalindrom: palindrom stringa uz ignorisanje razmaka, interpunkcije i veličine slova | --- |  |  |  |  |  |
+| ZSR03-Z51 | 51 | `*` | Prepoznavanje i izdvajanje brojeva unutar stringa | --- |  |  |  |  |  |
+| ZSR03-Z52 | 52 | `#` | IzbrisiPodstring: uklanjanje svih pojavljivanja podstringa | --- |  |  |  |  |  |
+| ZSR03-Z53 | 53 | `#` | IzbrisiZnakove: uklanjanje svih znakova iz zadane grupe | --- |  |  |  |  |  |
+| ZSR03-Z54 | 54 | `*` | Zamjena sekvenci %d i %f brojevima iz vektora | --- |  |  |  |  |  |
+| ZSR03-Z55 | 55 | `#` | Rimski: pretvaranje broja u rimski zapis | --- |  |  |  |  |  |
+| ZSR03-Z56 | 56 | `*` | Izdvajanje riječi iz rečenice u vektor stringova | --- |  |  |  |  |  |
+| ZSR03-Z57 | 57 | `*` | NadjiPodstring: pronalazak pozicije podstringa | --- |  |  |  |  |  |
+| ZSR03-Z58 | 58 | `#` | Izdvajanje savršeno ritmičnih riječi iz rečenice | --- |  |  |  |  |  |
+| ZSR03-Z59 | 59 | `#` | Problem n dama i provjera nenapadajućeg rasporeda | --- |  |  |  |  |  |
+| ZSR03-Z60 | 60 | `#` | ZamjenaRijeci: zamjena riječi u stringu prema dva vektora | --- |  |  |  |  |  |
+| ZSR03-Z61 | 61 | `#` | IstakniFraze: stavljanje zagrada oko zadatih riječi/fraza | --- |  |  |  |  |  |
+| ZSR03-Z62 | 62 | `#` | ObrniFraze i IzmijeniUPigLatin za procesiranje teksta | --- |  |  |  |  |  |
+| ZSR03-Z63 | 63 | `#` | Generalizirana Caesarova šifra | --- |  |  |  |  |  |
+| ZSR03-Z64 | 64 | `#` | RazvrstajRijeciPoDuzini: razvrstavanje riječi po dužini | --- |  |  |  |  |  |
 
 ## ZSR 4
 
