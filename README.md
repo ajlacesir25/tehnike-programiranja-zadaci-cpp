@@ -9,7 +9,7 @@ Ovaj repozitorij koristim za praćenje i rješavanje zadataka iz predmeta **Tehn
 TP-2025-26-zadaci/
 │
 ├── README.md
-├── progress.csv
+├── progress.md
 │
 ├── rijeseni-zadaci/
 │   ├── predavanje-01/
