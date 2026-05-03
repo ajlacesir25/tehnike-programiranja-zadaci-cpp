@@ -96,15 +96,15 @@ TP-2025-26-zadaci/
 
 ### Riješeni zadaci uz predavanja
 
-| ID | Materijal | Folder | Broj zadataka | Urađeno | Status | Datum početka | Datum završetka |
-|---|---|---|:---:|:---:|:---:|---|---|
-| P1 | Riješeni zadaci uz Predavanje 1 | `rijeseni-zadaci/predavanje-01/` |  |  | --- |  |  |
-| P2 | Riješeni zadaci uz Predavanje 2 | `rijeseni-zadaci/predavanje-02/` |  |  | --- |  |  |
-| P3 | Riješeni zadaci uz Predavanje 3 | `rijeseni-zadaci/predavanje-03/` |  |  | --- |  |  |
-| P4 | Riješeni zadaci uz Predavanje 4 | `rijeseni-zadaci/predavanje-04/` |  |  | --- |  |  |
-| P5 | Riješeni zadaci uz Predavanje 5 | `rijeseni-zadaci/predavanje-05/` |  |  | --- |  |  |
-| P6 | Riješeni zadaci uz Predavanje 6 | `rijeseni-zadaci/predavanje-06/` |  |  | --- |  |  |
-| P7 | Riješeni zadaci uz Predavanje 7 | `rijeseni-zadaci/predavanje-07/` |  |  | --- |  |  |
+| ID | Materijal | Folder | Broj zadataka | Uradjeno | Status | Datum pocetka | Datum zavrsetka |
+|---|---|---|---:|---:|---|---|---|
+| P1 | Rijeseni zadaci uz Predavanje 1 | `rijeseni-zadaci/predavanje-01/` | 7 | 0 | --- |  |  |
+| P2 | Rijeseni zadaci uz Predavanje 2 | `rijeseni-zadaci/predavanje-02/` | 12 | 0 | --- |  |  |
+| P3 | Rijeseni zadaci uz Predavanje 3 | `rijeseni-zadaci/predavanje-03/` | 13 | 0 | --- |  |  |
+| P4 | Rijeseni zadaci uz Predavanje 4 | `rijeseni-zadaci/predavanje-04/` | 17 | 0 | --- |  |  |
+| P5 | Rijeseni zadaci uz Predavanje 5 | `rijeseni-zadaci/predavanje-05/` | 25 | 0 | --- |  |  |
+| P6 | Rijeseni zadaci uz Predavanje 6 | `rijeseni-zadaci/predavanje-06/` | 16 | 0 | --- |  |  |
+| P7 | Rijeseni zadaci uz Predavanje 7 | `rijeseni-zadaci/predavanje-07/` | 23 | 0 | --- |  |  |
 
 ### Zadaci za samostalno vježbanje
 
