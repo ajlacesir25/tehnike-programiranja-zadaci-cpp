@@ -206,7 +206,7 @@ Ovdje detaljno pratim napredak kroz sve zadatke iz Tehnika programiranja.
 
 | ID | Broj | Naziv zadatka | Status | Tezina | Datum pocetka | Datum zavrsetka | Ponoviti | Napomena |
 |---|---:|---|---|---:|---|---|---|---|
-| P6-Z01 | 1 | GenerirajStepeneDvojke: dinamicki niz i izuzeci | --- |  |  |  |  |  |
+| P6-Z01 | 1 | GenerirajStepeneDvojke: dinamicki niz i izuzeci | In progress |  |  |  |  |  |
 | P6-Z02 | 2 | KreirajIzvrnutiNiz za blok pokazivaca ili iteratora | --- |  |  |  |  |  |
 | P6-Z03 | 3 | Dinamicki niz Fibonaccijevih brojeva | --- |  |  |  |  |  |
 | P6-Z04 | 4 | Dinamicki niz stringova unesenih sa tastature | --- |  |  |  |  |  |
